@@ -1,4 +1,4 @@
-# fintech-star-schema
+# Financial Fintech-Star-Schema
 A model that represents the lifecycle of money inside a digital wallet fintech platform — from payment initiation to settlement, fees, disputes, and balance tracking
 
 # Fintech Star Schema (Payments + Wallets)
